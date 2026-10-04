@@ -1,0 +1,29 @@
+* { 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box;
+    background-color: whitesmoke
+}
+
+.nav { 
+    height: 200px;
+    background-color: blue;
+    
+}
+
+ul { 
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-around;
+    width: 200px;
+}
+
+li { 
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.projects { 
+    height: 100px;
+
+}
